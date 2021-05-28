@@ -1,0 +1,2 @@
+.Tabs__titles{display:-webkit-flex;display:flex;padding:0;list-style-type:none}.Tabs__title{color:#1f5899;cursor:pointer;padding:10px 40px;border:transparent;border-bottom:1px solid #d6d6d6;background-color:#fff}.Tabs__title--selected{border-radius:6px 6px 0 0;border:1px solid #d6d6d6;border-bottom-color:#fff;color:#000;cursor:default}.Tabs__title:not(.Tabs__title--selected):hover{color:#000}
+/*# sourceMappingURL=main.cd0cec64.chunk.css.map */
